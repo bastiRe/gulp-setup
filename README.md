@@ -3,12 +3,12 @@ A small boilerplate for jump starting a project with predefined gulp tasks
 
 Features
 ---------
-*Browserify for JavaScript bundling
-*Babel for using ES6
-*Sass and Autoprefixing for stylesheets
-*Handlebars templates
-*Browsersync for rapid local development
-*Minification for deployment
+* Browserify for JavaScript bundling
+* Babel for using ES6
+* Sass and Autoprefixing for stylesheets
+* Handlebars templates
+* Browsersync for rapid local development
+* Minification for deployment
 
 Usage
 -------
